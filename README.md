@@ -1,3 +1,4 @@
-# PRODIGY_DS_04
-TASK - 4
-Task : Analyze and visualize sentiment patterns in social media data to understand public opinion and attitudes towards specific topics or brands.
+# PRODIGY_DS_03
+TASK - 3
+Task : Task : Build a decision tree classifier to predict whether a customer will purchase a product or service based on their demographic and behavioral data. Use a dataset such as the Bank Marketing dataset from the UCI Machine Learning Repository.
+
